@@ -56,4 +56,4 @@
 
 
  * #### Tableau Public Link 🔗 for the Investment Analytics Dashboard- 
- [https://public.tableau.com/app/profile/ashutos4987/viz/InvestmentAnalyticsDashboard1/Dashboard1]
+ [https://public.tableau.com/app/profile/ashutos4987/viz/InvestmentAnalyticsDashboard2/Dashboard1]
