@@ -17,13 +17,12 @@
 
 ## OBJECTIVES - 
 
-* Total Sales and Total Profit Between Year 2017 to 2020 .
-* Total Quantity Between 2017 to 2020 .
-* Average Discount Between Year 2017 to 2020 .
-* Monthly Sales Trend In the Year 2020 .
-* Sales by State .
-* Sales by Product Subcategory .
-* Region wise Sales .
+* Sector wise foreign direct investment in india of all 17 financial years.
+* Year wise Forecasting of Foreign direct investments in India.
+* Top 10 sectors by investments.
+* Bottom 10 sectors by Foreign direct investments in India.
+* Year wise Percentage of Foreign direct investments in India between 2000 to 2016.
+* Foreign direct investment in india on sectorwise in 2014,2015,2016 financial years.
 
 
 ## SAMPLE VISUALIZATION - 
