@@ -31,22 +31,19 @@
 
 * First I have Cleaned the Null values and duplicates by using Tableau data interpreter option.
 
-* Secondly I have Created Relationship between Companies and Investments tables.
+* Secondly I have used the Pivot option For Pivoting the Data.
+
+* After that I have Rename the Pivot Field Name .
 
 * Then I have checked the datatypes of all columns of the dataset whether it is correct or not.
 
+* Created the Calculated field .
+
  
-![Screenshot 2022-10-08 124522](https://user-images.githubusercontent.com/111995863/194695668-78f4086e-923a-4da3-a463-d90c5bd5d816.png)
-
-![Screenshot 2022-10-08 124625](https://user-images.githubusercontent.com/111995863/194695671-1ae369c4-ed29-4c3b-9e80-ad5424de3dec.png)
-
-![Screenshot 2022-10-08 124702](https://user-images.githubusercontent.com/111995863/194695675-516591ce-6676-430b-8196-35fb8bbb3097.png)
-
-![Screenshot 2022-10-08 125122](https://user-images.githubusercontent.com/111995863/194695679-40d4656c-4f57-499b-bc4c-d2cba0b455f8.png)
 
 
 
 
 
- * #### Tableau Public Link 🔗 for the Retail Sales Analytics Dashboard- 
- [https://public.tableau.com/app/profile/ashutos4987/viz/RetailSalesAnalysisDashboard_16652099168140/RetailSalesAnalysisDashboard]
+ * #### Tableau Public Link 🔗 for the Investment Analytics Dashboard- 
+ [https://public.tableau.com/app/profile/ashutos4987/viz/InvestmentAnalyticsDashboard1/Dashboard1]
